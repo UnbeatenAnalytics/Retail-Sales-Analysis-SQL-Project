@@ -134,7 +134,7 @@ WHERE
 	AND quantity >= 4;
 ```
 
-3. **Write a SQL query to calculate the total sales (total_sale) for each category.**:
+3. **Write a SQL query to calculate the total sales (total_sale) and total orders for each category.**:
 ```sql
 SELECT 
 	category,
@@ -262,6 +262,7 @@ For more content on SQL, data analysis, and other data-related topics, make sure
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/uttkarsh-agrawal-83ab72280/)
 
 Thank you for your support, and I look forward to connecting with you!
+
 
 
 
